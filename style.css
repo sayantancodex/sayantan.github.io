@@ -59,3 +59,19 @@
         height: 100%;
     }
 }
+
+@media (max-width: 600px) {
+    
+    /* Adjust styles for smaller screens here */
+}
+
+/* Styles for screens between 601px and 1024px (e.g., tablets) */
+@media (min-width: 601px) and (max-width: 1024px) {
+    /* Adjust styles for medium-sized screens here */
+}
+
+/* Styles for screens larger than 1024px (e.g., desktops) */
+@media (min-width: 1025px) {
+    /* Adjust styles for larger screens here */
+}
+
